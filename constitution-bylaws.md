@@ -1,6 +1,7 @@
 ---
 permalink: /constitution-bylaws
 layout: default
+title: YARC Constitution and Bylaws
 ---
 
 # Constitution of the Young Amateurs Radio Club

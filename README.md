@@ -1,6 +1,8 @@
 ---
 permalink: /
 layout: default
+title: YARC Club Documents
+id: index
 ---
 
 # YARC Club Documents
